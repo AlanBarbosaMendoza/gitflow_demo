@@ -1,0 +1,2 @@
+Esto es un ejemplo de objeto o componente.
+Se corrige error.
